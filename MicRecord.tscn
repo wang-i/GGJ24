@@ -42,6 +42,7 @@ disabled = true
 text = "Play"
 
 [node name="PlayMusic" type="Button" parent="MicRecord"]
+visible = false
 margin_left = 221.0
 margin_top = 28.0
 margin_right = 301.0

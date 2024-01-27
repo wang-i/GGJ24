@@ -1,5 +1,7 @@
 extends Control
 
+#hello lol
+
 var effect
 var recording
 
